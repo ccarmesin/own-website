@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.substripe.app",
+      "sha256_cert_fingerprints": [
+        "7E:A9:3A:E1:CE:C1:27:C2:86:3D:2C:95:27:BF:BC:39:28:90:2B:86:98:73:23:CD:C7:57:69:C4:BD:7E:40:F6"
+      ]
+    }
+  }
+]
