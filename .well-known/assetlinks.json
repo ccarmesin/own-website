@@ -10,5 +10,18 @@
         "7E:A9:3A:E1:CE:C1:27:C2:86:3D:2C:95:27:BF:BC:39:28:90:2B:86:98:73:23:CD:C7:57:69:C4:BD:7E:40:F6"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.substripe.android",
+      "sha256_cert_fingerprints": [
+        "3E:68:BA:5E:AD:99:58:3B:24:36:2F:BA:B1:CB:70:D3:10:2B:EC:F6:F2:3D:5A:42:71:7B:F9:74:34:F5:99:FD",
+        "B1:6A:84:09:8B:4B:98:41:71:8F:9B:63:72:7F:74:3D:A3:D2:A0:77:7A:EC:7A:77:0F:01:8C:20:5E:08:9A:22"
+      ]
+    }
   }
 ]
